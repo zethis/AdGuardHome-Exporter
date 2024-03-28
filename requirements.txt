@@ -1,0 +1,4 @@
+adguardhome
+asyncio
+prometheus_client
+python-daemon
