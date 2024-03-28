@@ -7,7 +7,7 @@ Minimal AdGuardHome-Exporter
 | Environment Variable        | Default Value |
 |-----------------------------|---------------|
 | `ADGUARDHOME_IP`            | `localhost`   |
-| `ADGUARDHOME_PORT           | `5432`        |
+| `ADGUARDHOME_PORT`          | `5432`        |
 | `ADGUARDHOME_USERNAME`      | `none`        |
 | `ADGUARDHOME_PASSWORD`      | `none`        |
 | `ADGUARDHOME_PORT`          | `80`          |
