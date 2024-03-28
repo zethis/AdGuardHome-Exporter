@@ -12,7 +12,6 @@ Minimal AdGuardHome-Exporter
 | `ADGUARDHOME_PASSWORD`      | `none`        |
 | `ADGUARDHOME_PORT`          | `80`          |
 | `ADGUARDHOME_EXPORTER_PORT` | `9100`        |
-|-----------------------------|---------------|
 
 2. Create systemd service:
 ```bash
